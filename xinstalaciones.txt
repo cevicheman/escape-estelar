@@ -1,0 +1,7 @@
+La info del pasado es vital, mas el paso del tiempo hace que muchos escritos y fotos se dañen. Aunque se pueden escanear, estos archivos suelen tener fallas como manchas o zonas poco nítidas.
+
+Un método muy útil para lidiar con esto es SVD, que ayuda a dividir una imagen en sus partes clave y limpiar lo que no suma, como las fallas. Con esto, es posible dar más vida a fotos y textos viejos sin que se pierda su esencia.
+
+El uso de SVD no es nuevo. En el siglo XIX, Beltrami y Jordan lo dieron a conocer. A finales del siglo XX, se usó en fotos para afinar su calidad. Ya en el siglo XXI, se aplica para limpiar defectos en escritos viejos. Hoy, con más poder de cómputo, se une a otras técnicas para hacer su efecto más potente.
+
+Este estudio usa SVD con código en Python y librerías como NumPy y OpenCV. Así, se busca dar luz a fotos de mucho valor para el saber, ayudando a que su info no se pierda con el paso del tiempo.
